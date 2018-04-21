@@ -46,7 +46,7 @@ Score | Expectations
 **0** | _Incomplete._
 **1** | _Does not meet expectations._
 **2** | _Meets expectations, good job!_
-**3** | _Surpasses our wildest expectations!_
+**3** | _Exceeds expectations_
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
 
