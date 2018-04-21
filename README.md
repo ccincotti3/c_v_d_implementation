@@ -37,19 +37,6 @@ You will get structured guidance and designated time to work throughout the cour
 
 ---
 
-## (Suggested) Project Schedule
-
-- Project 1: Due @ End of Unit 1
-- Project 2: Due @ End of Unit 2
-- Project 3: Due @ End of Unit 3
-- Project 4 (Final):
-    - Proposal + Dataset: Due @ End of Unit 2
-    - Initial EDA Brief: Due @ End of Unit 3
-    - Technical Report: Due @ End of Unit 4
-    - Presentation: Due @ End of Unit 4
-
----
-
 ## Rubric
 
 For all deliverables, requirements will be evaluated on a simple point scale of 0, 1, or 2. Additionally, instructors will provide you with feedback on required portions of your project.
@@ -66,12 +53,6 @@ Score | Expectations
 
 ---
 
+## Schedule and Submission
 
-## Project Submission
-
-Instructors will explain how to submit project deliverables. Depending on the deliverable, this may be done by:
-
-- Creating a repository in your github profile, hosting your materials, and sharing a link with your instructor.
-- Creating a document or slide deck/PDF to share with an audience.
-
----
+See [course_info](https://git.generalassemb.ly/chi-ds-8/course_info#project-submission-procedure).
