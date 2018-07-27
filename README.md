@@ -62,4 +62,4 @@ Score | Expectations
 
 ## Schedule and Submission
 
-See [course_info](https://git.generalassemb.ly/chi-ds-8/course_info#project-submission-procedure).
+See [course_info](https://git.generalassemb.ly/datr-625/course_info#project-submission-procedure).
