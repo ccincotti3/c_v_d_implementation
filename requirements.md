@@ -94,5 +94,7 @@ Finally, be prepared to explain and defend your model to an inquisitive audience
    - Recommendations or next steps.
 
  4. *Optional:* Create/host an interactive demo of your model, explain how to deploy your model, or describe how you would evaluate performance over time.
+ 
+Aim for *6-8 minutes*. There will be a *hard cutoff* at *9 minutes*. These times *will not change* even if we have fewer presenters than we are anticipating at this point.
 
 ---
