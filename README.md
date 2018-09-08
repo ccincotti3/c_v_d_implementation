@@ -57,9 +57,3 @@ Score | Expectations
 - The primary purpose of this project is for you to go through the entire data science workflow end-to-end, following standard practices such as the use of train/test splits and distinguishing between correlation and causation. We do not expect you to build a model that could win a Kaggle competition. Execute on the fundamentals, and you will be fine.
 - Build a lousy but functioning end-to-end system as quickly as possible. On the first iteration, solve only the problems that you absolutely have to solve in order to get a result. Once you have that first result, you will be in a much better position to prioritize work on the problems you encountered along the way.
 - Projects that are merely informative can work, but the projects that look most compelling on a resume can be used to inform a _decision_ in a way that yields _measurably better results_.
-
----
-
-## Schedule and Submission
-
-See [course_info](https://git.generalassemb.ly/datr-625/course_info#project-submission-procedure).
