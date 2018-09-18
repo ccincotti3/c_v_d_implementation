@@ -165,3 +165,4 @@ Natural language processing is taught relatively late in our curriculum. Thus, t
 ### Option 8: Choose Your Own Dataset
 
 If none of the datasets above look interesting to you, feel free to find a different one. Just be sure to clearly indicate this preference and discuss your choice with your instructor.
+If you need help in finding datasets for your projects, **[this link](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md)** contains a lot of sources to get interesting datasets. 
