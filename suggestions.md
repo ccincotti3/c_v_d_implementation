@@ -18,7 +18,7 @@ Below, we have sourced some suggested datasets suitable for final projects, incl
 | [Option 7: Trump Tweet Data](#option7) | 
 | [Option 8: Choose Your Own](#option8) |
 
-> Note: Alternatively, instructors may allow students to choose their own final project topic and dataset. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
+> Note: Alternatively, you may choose your own final project topic and dataset, e.g. from your company or from a website such as [Kaggle](https://www.kaggle.com/datasets) or [data.world](https://data.world/). Be sure to discuss the dataset and what you want to do with it with your instructors early on to make sure that you are on the right track.
 
 ---
 
