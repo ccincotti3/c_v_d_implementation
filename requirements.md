@@ -19,12 +19,14 @@
 Describe your chosen problem and state whether you have access to relevant data. If you get stuck, [see this list of curated datasets](./suggestions.md).
 
 #### Requirements
-1. Draft a well-formed problem statement relevant to a business problem affecting your team, division, or organization.
+1. Draft a well-formed problem statement, ideally relevant to a business problem affecting your organization.
 2. Include the following elements:
    - Hypothesis/assumptions
    - Goals and success metrics
    - Risks or limitations
 3. Identify at least one relevant internal dataset and confirm that you have (or can get) the right access permissions.
+
+If the project you propose at this stage does not work out, you can change course later on. However, you will have a much easier time if you invest time up front in developing a good problem statement.
 
 ---
 
@@ -39,7 +41,6 @@ Exploratory data analysis is a crucial step in any data workflow. Create a Jupyt
 2. Perform statistical analysis, along with any visualizations.
 3. Determine how to handle sampling or missing values.
 4. Clearly identify shortcomings, assumptions, and next steps.
-
 
 ---
 
