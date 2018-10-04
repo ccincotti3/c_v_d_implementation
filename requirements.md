@@ -16,10 +16,10 @@
    
 > Frame your problem, criteria, and data source(s)
 
-Describe your chosen problem and state whether you have access to relevant data. If you get stuck, [see this list of curated datasets](./suggestions.md).
+Describe your chosen problem and state whether you have access to relevant data.
 
 #### Requirements
-1. Draft a well-formed problem statement, ideally relevant to a business problem affecting your organization.
+1. Draft a well-formed problem statement.
 2. Include the following elements:
    - Hypothesis/assumptions
    - Goals and success metrics
@@ -27,6 +27,12 @@ Describe your chosen problem and state whether you have access to relevant data.
 3. Identify at least one relevant internal dataset and confirm that you have (or can get) the right access permissions.
 
 If the project you propose at this stage does not work out, you can change course later on. However, you will have a much easier time if you invest time up front in developing a good problem statement.
+
+#### Possible Projects
+
+I usually see the best results on projects that are done for work, presumably because students can often develop them during work time and have strong incentives to do a good job. If a work-related project is not an option, you might choose a project related to a hobby or cause that you are passionate about. [Here are some sites you might explore for interesting data sets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md).
+
+We also provide a [list of curated datasets](./suggestions.md) that students have had success with in the past.
 
 ---
 
