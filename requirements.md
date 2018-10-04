@@ -26,9 +26,6 @@ Describe your chosen problem and state whether you have access to relevant data.
    - Risks or limitations
 3. Identify at least one relevant internal dataset and confirm that you have (or can get) the right access permissions.
 
-
-#### Submission
-- Submit or share your project proposal as per your instructor's directions.
 ---
 
 <a name="eda"></a>
@@ -43,8 +40,6 @@ Exploratory data analysis is a crucial step in any data workflow. Create a Jupyt
 3. Determine how to handle sampling or missing values.
 4. Clearly identify shortcomings, assumptions, and next steps.
 
-#### Submission
-- Submit or share your project brief as per your instructor's directions.
 
 ---
 
@@ -62,10 +57,6 @@ Build upon your earlier analysis, folling the performance metrics you establishe
 3. Comments explaining your code.
 
 > Note: Here are some things to consider in your notebook: sample size, correlations, feature importance, unexplained variance or outliers, variable selection, train/test comparison, and any relationships between your target and independent variables.
-
-
-#### Submission
-- Submit or share your project brief as per your instructor's directions.
 
 ---
 
