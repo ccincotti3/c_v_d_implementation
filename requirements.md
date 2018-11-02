@@ -93,6 +93,6 @@ Finally, be prepared to explain and defend your model to an inquisitive audience
 
  4. *Optional:* Create/host an interactive demo of your model, explain how to deploy your model, or describe how you would evaluate performance over time.
  
-Aim for **6-8 minutes**. There will be a **hard cutoff** at **9 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.
+Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.
 
 ---
