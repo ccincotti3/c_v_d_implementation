@@ -18,21 +18,31 @@
 
 Describe your chosen problem and state whether you have access to relevant data.
 
-#### Requirements
+### Requirements
+
 1. Draft a well-formed problem statement.
 2. Include the following elements:
    - Hypothesis/assumptions
    - Goals and success metrics
    - Risks or limitations
-3. Identify at least one relevant internal dataset and confirm that you have (or can get) the right access permissions.
+3. Identify at least one relevant internal dataset and show that you can load it into a Pandas dataframe.
 
 If the project you propose at this stage does not work out, you can change course later on. However, you will have a much easier time if you invest time up front in developing a good problem statement.
 
-#### Possible Projects
+### Format
+
+Create a Jupyter notebook in a new Git repository. Describe your project with a few paragraphs of text in one or more Markdown cells, and load each dataset that you plan to use for your project into a Pandas dataframe. Push your repo to GitHub and follow the submission instructions in your course info document.
+
+### Possible Projects
 
 I usually see the best results on projects that are done for work, presumably because students can often develop them during work time and have strong incentives to do a good job. If a work-related project is not an option, you might choose a project related to a hobby or cause that you are passionate about. [Here are some sites you might explore for interesting data sets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md).
 
 We also provide a [list of curated datasets](./suggestions.md) that students have had success with in the past.
+
+#### Examples
+
+See an example of a past submission [here](https://github.com/GraceCampbell/grace_campbell_final_project/blob/master/part_1_proposal.ipynb).
+
 
 ---
 
@@ -42,7 +52,7 @@ We also provide a [list of curated datasets](./suggestions.md) that students hav
 
 Exploratory data analysis is a crucial step in any data workflow. Create a Jupyter Notebook that explores your data mathematically and visually. Explore features, apply descriptive statistics, look at distributions, and determine how to handle sampling or any missing values.
 
-#### Requirements
+### Requirements
 1. Create an exploratory data analysis notebook.
 2. Perform statistical analysis, along with any visualizations.
 3. Determine how to handle sampling or missing values.
@@ -58,7 +68,7 @@ Develop a prototype model or process to successfully resolve the business proble
 
 Build upon your earlier analysis, folling the performance metrics you established as part of your problem's evaluation criteria. Demonstrate your approach logically, including all relevant code and data. Polish your notebook for peer audiences by cleanly formatting sections, headers, and descriptions in markdown. Include comments in any code.
 
-#### Requirements
+### Requirements
 1. A detailed Jupyter Notebook with a summary of your analysis, approach, and evaluation metrics.
 2. Clearly formatted structure with section headings and markdown descriptions.
 3. Comments explaining your code.
@@ -79,7 +89,7 @@ Finally, be prepared to explain and defend your model to an inquisitive audience
 
 > **Optional:** For a stretch challenge, try any of the following: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate your solution's performance over time.
 
-#### Requirements
+### Requirements
 
 1. Detailed presentation for non-technical audience.
 2. Your presentation should include:
@@ -94,5 +104,3 @@ Finally, be prepared to explain and defend your model to an inquisitive audience
  4. *Optional:* Create/host an interactive demo of your model, explain how to deploy your model, or describe how you would evaluate performance over time.
  
 Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.
-
----
