@@ -39,7 +39,7 @@ I usually see the best results on projects that are done for work, presumably be
 
 We also provide a [list of curated datasets](./suggestions.md) that students have had success with in the past.
 
-#### Examples
+### Examples
 
 See an example of a past submission [here](https://github.com/GraceCampbell/grace_campbell_final_project/blob/master/part_1_proposal.ipynb).
 
