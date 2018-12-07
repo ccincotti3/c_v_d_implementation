@@ -22,10 +22,12 @@ Describe your chosen problem and state whether you have access to relevant data.
 
 1. Draft a well-formed problem statement.
 2. Include the following elements:
-   - Hypothesis/assumptions
+   - The target variable you want to predict.
+   - How predicting that target variable could help with some kind of decision.
+   - The features you want to use to predict that target variable.
    - Goals and success metrics
    - Risks or limitations
-3. Identify at least one relevant internal dataset and show that you can load it into a Pandas dataframe.
+3. Identify at least one relevant dataset and load it into a Pandas dataframe.
 
 If the project you propose at this stage does not work out, you can change course later on. However, you will have a much easier time if you invest time up front in developing a good problem statement.
 
