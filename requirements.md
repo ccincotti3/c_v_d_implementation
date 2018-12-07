@@ -16,7 +16,7 @@
    
 > Frame your problem, criteria, and data source(s)
 
-Describe your chosen problem and state whether you have access to relevant data.
+Describe your chosen problem and show that you have access to relevant data.
 
 ### Requirements
 
@@ -37,9 +37,13 @@ Create a Jupyter notebook in a new Git repository. Describe your project with a 
 
 ### Possible Projects
 
-I usually see the best results on projects that are done for work, presumably because students can often develop them during work time and have strong incentives to do a good job. If a work-related project is not an option, you might choose a project related to a hobby or cause that you are passionate about. [Here are some sites you might explore for interesting data sets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md).
+I usually see the best results on projects that are done for work, presumably because students can often develop them during work time and have strong incentives to do a good job. If a work-related project is not an option, you might choose a project related to a hobby or cause that you are passionate about.
+
+[Here are some sites you might explore for interesting data sets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md).
 
 We also provide a [list of curated datasets](./suggestions.md) that students have had success with in the past.
+
+Use real data rather than a synthetic data set.
 
 ### Examples
 
@@ -75,7 +79,7 @@ Build upon your earlier analysis, folling the performance metrics you establishe
 2. Clearly formatted structure with section headings and markdown descriptions.
 3. Comments explaining your code.
 
-> Note: Here are some things to consider in your notebook: sample size, correlations, feature importance, unexplained variance or outliers, variable selection, train/test comparison, and any relationships between your target and independent variables.
+> Note: Here are some things to consider in your notebook: sample size, correlations, feature importance, unexplained variance or outliers, variable selection, and relationships between your target and independent variables. Be sure to evaluate your model on a held-out test set using simple or K-fold cross-validation and to use a metric that is appropriate for your problem, i.e. (at minimum) a regression metric for a regression problem or a classification metric for a classification problem.
 
 ---
 
@@ -102,7 +106,8 @@ Finally, be prepared to explain and defend your model to an inquisitive audience
    - Performance evaluation (how your approach compares to your original success metrics).
    - Impact of your findings.
    - Recommendations or next steps.
-
- 4. *Optional:* Create/host an interactive demo of your model, explain how to deploy your model, or describe how you would evaluate performance over time.
+ 3. *Optional:* Create/host an interactive demo of your model, explain how to deploy your model, or describe how you would evaluate performance over time.
  
-**DATR-910:** Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.
+You will have something like 5-10 minutes to present, depending on how many students submit a final project. You will receive exact timing guidelines closer to the deadline.
+ 
+<!--Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.-->
