@@ -17,23 +17,9 @@
 
 ## Project Objective(s)
 
-#### Description
 Our final project asks you to apply your skills to a business problem of your choice. The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your team, division, or organization. You’ll generate a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
 
-#### Deliverables
-You will get structured guidance and designated time to work throughout the course. Final project deliverables include:
-
-- **Project Proposal**: Describe your chosen problem and whether you have access to relevant data.
-- **Project Brief**: Share a brief summary of your initial analysis and next steps in order to get assistance from your instructional team.
-- **Technical Notebook**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
-- **Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
-
----
-
-## Project Resources
-
-* [Check out our requirements doc](./requirements.md) for a detailed walkthrough of our final project deliverable requirements. 
-* If you're looking for final project ideas, [check out this list of ideas](./suggestions.md) curated from successful past projects.
+See [requirements.md](./requirements.md) for details.
 
 ---
 
