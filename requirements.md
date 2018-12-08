@@ -95,6 +95,8 @@ Finally, be prepared to explain and defend your model to an inquisitive audience
 
 > **Optional:** For a stretch challenge, try any of the following: creating an interactive demo of your model in action, explaining how you would deploy your model in a production environment, or discussing how to evaluate your solution's performance over time.
 
+See an example presentation slide deck [here](./example_presentation_slides.pdf).
+
 ### Requirements
 
 1. Detailed presentation for non-technical audience.
