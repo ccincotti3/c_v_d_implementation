@@ -112,4 +112,4 @@ See an example presentation slide deck [here](./example_presentation_slides.pdf)
  
 You will have something like 5-10 minutes to present, depending on how many students submit a final project. You will receive exact timing guidelines closer to the deadline.
  
-<!--Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.-->
+*For DATR-1203:* Aim for **5-7 minutes**. There will be a **hard cutoff** at **8 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.
