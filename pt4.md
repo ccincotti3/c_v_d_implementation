@@ -36,3 +36,7 @@ Use slides and/or a Jupyter notebook as a visual aid. Include lots of visuals, a
 ## Stretch Challenges
 
 For a stretch challenge, you might create an interactive demo of your model in action, explain how you would deploy your model in a production environment, or discuss how to evaluate your solution's performance over time.
+
+## Examples
+
+You can see an example of a past presentation [here](./pt4_example.pdf) and additional examples at the [GA Gallery](https://gallery.generalassemb.ly/DS?metro=), but not that the GA Gallery examples in particular may have been based on somewhat different instructions.
