@@ -1,41 +1,19 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science: Final Project
+<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
 
-> Capstone Project for Data Science
+# Data Science: Final Project
 
----
+## Description
 
-## Materials We Provide
+The final project is an opportunity for you to put your skills into practice on a problem of your choice.
 
-| Topic | Description | Link |
-| --- | --- | --- |
-| Requirements | Final project deliverable descriptions | [Here](./requirements.md) |
-| Sample Topics | Curated project dataset suggestions  | [Here](./suggestions.md) |
+The primary purpose of this project is for you to go through the entire data science workflow end-to-end, following standard practices such as the use of train/test splits and distinguishing between correlation and causation. We do not expect you to build a model that could win a Kaggle competition. Execute on the fundamentals, and you will be fine.
 
-> Note: Due to variability in student project selection, sample solutions are not provided. However, you can find a wide range of prior project examples in our [GA Gallery](https://gallery.generalassemb.ly/DS?metro=).
+## Deliverables
 
----
-
-## Project Objective(s)
-
-#### Description
-Our final project asks you to apply your skills to a business problem of your choice. The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your team, division, or organization. You’ll generate a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
-
-#### Deliverables
-You will get structured guidance and designated time to work throughout the course. Final project deliverables include:
-
-- **Project Proposal**: Describe your chosen problem and whether you have access to relevant data.
-- **Project Brief**: Share a brief summary of your initial analysis and next steps in order to get assistance from your instructional team.
-- **Technical Notebook**: Submit a cleanly formatted Jupyter notebook (or other files) documenting your code and process for technical/peer stakeholders.
-- **Presentation**: Present a summary of your business problem, approach, and recommendation to an audience of non-technical executive stakeholders.
-
----
-
-## Project Resources
-
-* [Check out our requirements doc](./requirements.md) for a detailed walkthrough of our final project deliverable requirements. 
-* If you're looking for final project ideas, [check out this list of ideas](./suggestions.md) curated from successful past projects.
-
----
+- **[Pt. 1: Proposal.](./pt1.md)** Describe your chosen problem, and show that you have an appropriate dataset.
+- **[Pt. 2: Exploratory Data Analysis.](./pt2.md)** Build a first-pass model, and dig into the data to identify opportunities to improve it.
+- **[Pt. 3: Technical Notebook.](./pt3.md)** Submit a cleanly formatted Jupyter notebook documenting your code and process in a way that would be appropriate for technical peers.
+- **[Pt. 4: Presentation.](./pt4.md)** Present a summary of your solution in class in a way that would be appropriate for business stakeholders.
 
 ## Rubric
 
@@ -50,10 +28,14 @@ Score | Expectations
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
 
----
+## Tip
 
-## Tips
+**Do not add your data to your Git repo**. It can sit in the same directory with your code; just do not run `git add` on it. Git is optimized for smallish text files that change, but data files are often large and unchanging. (If you want to make persistent changes to the data, you should generally make them on a copy while keeping the original files unchanged.)
 
-- The primary purpose of this project is for you to go through the entire data science workflow end-to-end, following standard practices such as the use of train/test splits and distinguishing between correlation and causation. We do not expect you to build a model that could win a Kaggle competition. Execute on the fundamentals, and you will be fine.
-- Build a lousy but functioning end-to-end system as quickly as possible. On the first iteration, solve only the problems that you absolutely have to solve in order to get a result. Once you have that first result, you will be in a much better position to prioritize work on the problems you encountered along the way.
-- Projects that are merely informative can work, but the projects that look most compelling on a resume can be used to inform a _decision_ in a way that yields _measurably better results_.
+## Protecting Proprietary Data
+
+If you are working with proprietary data that should not be made public, then that fact gives you all the more reason not to add your data to your Git repository.
+
+If exposing your data through your project notebooks would be a problem, then you can make your repository private on GitHub and add the members of the instructional team as collaborators.
+
+If even presenting your project in class would be a problem, then we can make arrangements for you to present it just to the instructional team.
