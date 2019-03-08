@@ -15,9 +15,9 @@ In the final project Git repository you created for Pt 1, create a new Jupyter n
     - Separate your target column from potential feature columns.
     - Get those columns in a clean enough state that you can build a model with them. It is OK to be fast and loose at this stage, e.g. by simply dropping rows or columns that have missing values or have string values that would take some work to make usable.
     - Do a train/test split.
-    - Fit some kind of regression or classification model on your training set as appropriate.
-    - Use an appropriate metric to evaluate your model on both the training set and the test set.
-    - Use the same metric to evaluate a null model for your target variable.
+    - Fit some kind of regression or classification model on your training set. Be sure to choose the correct type: regression if your target variable is a number, classification if it is a category.
+    - Use an appropriate metric to evaluate your model on both the training set and the test set. Be sure to choose a regression metric for a regression problem (e.g. MSE, RMSE, MAE, R-squared) or a classification metric for a classification problem (e.g. accuracy, $F_1$).
+    - Use the same metric to evaluate a null model for your target variable. 
     - State whether this first-pass model appears to be overfitting or underfitting.
 
 - Explore your data, looking for insights that might help you improve your model.
