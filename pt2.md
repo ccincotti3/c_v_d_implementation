@@ -17,7 +17,7 @@ In the final project Git repository you created for Pt 1, create a new Jupyter n
     - Do a train/test split.
     - Fit some kind of regression or classification model on your training set. Be sure to choose the correct type: regression if your target variable is a number, classification if it is a category.
     - Use an appropriate metric to evaluate your model on both the training set and the test set. Be sure to choose a regression metric for a regression problem (e.g. MSE, RMSE, MAE, R-squared) or a classification metric for a classification problem (e.g. accuracy, $F_1$).
-    - Use the same metric to evaluate a null model for your target variable. 
+    - Compare your model's performance to that of a null model, e.g. by calculating R^2 for a regression model, comparing accuracy for a classification model to the frequency of the most common class, or calculating the same metric for your model and for a set of predictions that is simply the average value of the target variable for a regression model or the most common class for a classification model.
     - State whether this first-pass model appears to be overfitting or underfitting.
 
 - Explore your data, looking for insights that might help you improve your model.
