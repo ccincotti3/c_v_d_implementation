@@ -27,6 +27,8 @@ You will have something like 5-10 minutes to present, depending on how many stud
  
 <!--Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.-->
 
+*DATR-318:* Aim for **8-9 minutes**. There will be a **hard cutoff** at **10 minutes**.
+
 ## Tips
 
 Put the bottom line up front (e.g. a description of the value that your model can provide and a brief statement of any important insights you gained along the way), and then back it up with supporting information.
