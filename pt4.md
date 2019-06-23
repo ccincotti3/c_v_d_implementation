@@ -23,9 +23,11 @@ It should **not** include terms such as mean-squared error or visuals such as a 
 
 Be prepared to explain and defend your model to an inquisitive audience.
 
-You will have something like 5-10 minutes to present, depending on how many students submit a final project. You will receive exact timing guidelines closer to the deadline.
+You will have something like 5-10 minutes to present, depending on how many students submit a final project. Exact timing guidelines for your cohort will be posted below a couple weeks ahead of time.
  
 <!--Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.-->
+
+*DATR-318:* Aim for **8-9 minutes**. There will be a **hard cutoff** at **10 minutes**.
 
 ## Tips
 
