@@ -25,9 +25,9 @@ Be prepared to explain and defend your model to an inquisitive audience.
 
 You will have something like 5-10 minutes to present, depending on how many students submit a final project. Exact timing guidelines for your cohort will be posted below a couple weeks ahead of time.
  
-<!--Aim for **5-6 minutes**. There will be a **hard cutoff** at **7 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.-->
+DATR-618: Aim for **6-8 minutes**. There will be a **hard cutoff** at **9 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.
 
-*DATR-318:* Aim for **8-9 minutes**. There will be a **hard cutoff** at **10 minutes**.
+Submit any supporting materials for your project, such as slides or a Jupyter notebook, following the instructions in the course info document.
 
 ## Tips
 
