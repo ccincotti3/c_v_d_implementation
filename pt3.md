@@ -15,3 +15,7 @@ Take care to choose a regression model and metric if you are predicting a number
 The notebook you use to develop your model will likely contain many errors and false starts. In a new notebook called `part3_clean.ipynb`, walk us through your process and findings without all of that cruft. Create well formatted sections, headers, and descriptions in markdown. Make your code as clean as you can, for instance by giving your variables descriptive names and writing functions for steps that you find yourself carrying out repeatedly. Include comments to explain why you made choices that might otherwise be puzzling.
 
 Submit your project following the instructions in the course info document.
+
+## Examples
+
+See an example of a past submission [here](./pt3_example.ipynb), but note that the instructions for your cohort might be slightly different from the instructions that this student was following.

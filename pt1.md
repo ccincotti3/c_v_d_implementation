@@ -16,9 +16,9 @@ Create a new Git repository, follow the naming convention described in the proje
 - Goals and success metrics
 - Risks or limitations
 
-Then load each dataset that you plan to use for your project into a Pandas dataframe in one or more code cells.
+Then load each dataset that you plan to use for your project into a Pandas dataframe in one or more code cells. If you are working on a classification problem, print the value counts for the target variable.
 
-Finally, evaluate the adequacy of the data you loaded for answering the question you have in mind. For instance, does it have the target variable you want? Does it have feature columns that are plausibly predictive of the target variable? How many rows and columns does it have? How many values are missing in each column. You do not need to look at descriptive statistics or do any data visualization or modeling at this point. You just need to assess whether the data set is promising enough to warrant doing those things in Part 2 of the final project.
+Finally, evaluate the adequacy of the data you loaded for answering the question you have in mind. For instance, does it have the target variable you want? If you are pursuing a classification problem, does it have enough examples of each class? Does it have feature columns that are plausibly predictive of the target variable? How many rows and columns does it have? How many values are missing in each column? You do not need to look at descriptive statistics or do any data visualization or modeling at this point. You just need to assess whether the data set is promising enough to warrant doing those things in Part 2 of the final project.
 
 Submit your project following the instructions in the course info document.
 
