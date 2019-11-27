@@ -50,4 +50,4 @@ That being said, you typically do not want to stop with your first model, and ex
 
 ## Examples
 
-See an example of a past submission [here](./pt2_example.ipynb), but note that the instructions for your cohort might be slightly different from the instructions that this student was following.
+See an example of a past submission [here](./eda_example.ipynb), but note that the instructions for your cohort might be slightly different from the instructions that this student was following.

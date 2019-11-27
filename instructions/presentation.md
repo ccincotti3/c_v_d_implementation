@@ -41,4 +41,4 @@ For a stretch challenge, you might create an interactive demo of your model in a
 
 ## Examples
 
-You can see an example of a past presentation [here](./pt4_example.pdf) and additional examples at the [GA Gallery](https://gallery.generalassemb.ly/DS?metro=), but note that the GA Gallery examples in particular may have been based on somewhat different instructions.
+You can see an example of a past presentation [here](./presentation_example.pdf) and additional examples at the [GA Gallery](https://gallery.generalassemb.ly/DS?metro=), but note that the GA Gallery examples in particular may have been based on somewhat different instructions.

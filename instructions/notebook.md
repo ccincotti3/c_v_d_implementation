@@ -18,4 +18,4 @@ Submit your project following the instructions in the course info document.
 
 ## Examples
 
-See an example of a past submission [here](./pt3_example.ipynb), but note that the instructions for your cohort might be slightly different from the instructions that this student was following.
+See an example of a past submission [here](./notebook_example.ipynb), but note that the instructions for your cohort might be slightly different from the instructions that this student was following.
