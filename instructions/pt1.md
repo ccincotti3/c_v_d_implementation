@@ -20,11 +20,11 @@ Then load each dataset that you plan to use for your project into a Pandas dataf
 
 Finally, evaluate the adequacy of the data you loaded for answering the question you have in mind. For instance, does it have the target variable you want? If you are pursuing a classification problem, does it have enough examples of each class? Does it have feature columns that are plausibly predictive of the target variable? How many rows and columns does it have? How many values are missing in each column? You do not need to look at descriptive statistics or do any data visualization or modeling at this point. You just need to assess whether the data set is promising enough to warrant doing those things in Part 2 of the final project.
 
-Submit your project following the instructions in the course info document.
+Submit your project following the instructions in the Course Info doc. I would recommend that you do NOT add your data files to git. You *can* do so, but git is designed for code and really does not work well especially for data files larger than a few MB.
 
 If the project you propose at this stage does not work out, you can change course later on. However, you will have a much easier time if you invest time up front in developing a good problem statement.
 
-You may include up to three proposals if you want our feedback on which one seems most promising.
+You may include up to three proposals if you want our feedback regarding which one seems most promising.
 
 ## Project Topics
 

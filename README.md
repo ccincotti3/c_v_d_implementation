@@ -10,10 +10,10 @@ The primary purpose of this project is for you to go through the entire data sci
 
 ## Deliverables
 
-- **[Pt. 1: Proposal.](./pt1.md)** Describe your chosen problem, and show that you have an appropriate dataset.
-- **[Pt. 2: Exploratory Data Analysis.](./pt2.md)** Build a first-pass model, and dig into the data to identify opportunities to improve it.
-- **[Pt. 3: Technical Notebook.](./pt3.md)** Submit a cleanly formatted Jupyter notebook documenting your code and process in a way that would be appropriate for technical peers.
-- **[Pt. 4: Presentation.](./pt4.md)** Present a summary of your solution in class in a way that would be appropriate for business stakeholders.
+- **[Pt. 1: Proposal.](./instructions/pt1.md)** Describe your chosen problem, and show that you have an appropriate dataset.
+- **[Pt. 2: Exploratory Data Analysis.](./instructions/pt2.md)** Build a first-pass model, and dig into the data to identify opportunities to improve it.
+- **[Pt. 3: Technical Notebook.](./instructions/pt3.md)** Submit a cleanly formatted Jupyter notebook documenting your code and process in a way that would be appropriate for technical peers.
+- **[Pt. 4: Presentation.](./instructions/pt4.md)** Present a summary of your solution in class in a way that would be appropriate for business stakeholders.
 
 ## Rubric
 

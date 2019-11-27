@@ -25,9 +25,9 @@ Be prepared to explain and defend your model to an inquisitive audience.
 
 You will have something like 5-10 minutes to present, depending on how many students submit a final project. Exact timing guidelines for your cohort will be posted below a couple weeks ahead of time.
  
-DATR-618: Aim for **6-8 minutes**. There will be a **hard cutoff** at **9 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.
+<!--DATR-618: Aim for **6-8 minutes**. There will be a **hard cutoff** at **9 minutes**. I want to reward preparing against these expectations, so these times **will not change** even if we have fewer presenters than we are anticipating at this point.-->
 
-Submit any supporting materials for your project, such as slides or a Jupyter notebook, following the instructions in the course info document.
+Submit any supporting materials for your project, such as slides or a Jupyter notebook, following the instructions in the Course Info doc.
 
 ## Tips
 
@@ -41,4 +41,4 @@ For a stretch challenge, you might create an interactive demo of your model in a
 
 ## Examples
 
-You can see an example of a past presentation [here](./pt4_example.pdf) and additional examples at the [GA Gallery](https://gallery.generalassemb.ly/DS?metro=), but not that the GA Gallery examples in particular may have been based on somewhat different instructions.
+You can see an example of a past presentation [here](./pt4_example.pdf) and additional examples at the [GA Gallery](https://gallery.generalassemb.ly/DS?metro=), but note that the GA Gallery examples in particular may have been based on somewhat different instructions.
