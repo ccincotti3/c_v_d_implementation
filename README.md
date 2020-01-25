@@ -8,6 +8,18 @@ The final project is an opportunity for you to put your skills into practice on 
 
 The primary purpose of this project is for you to go through the entire data science workflow end-to-end, following standard practices such as the use of train/test splits and distinguishing between correlation and causation. We do not expect you to build a model that could win a Kaggle competition. Execute on the fundamentals, and you will be fine.
 
+## Tip
+
+**Do not add your data to your Git repo**. It can sit in the same directory with your code; just do not run `git add` on it. Git is optimized for smallish text files that change, but data files are often large and unchanging. (If you want to make persistent changes to the data, you should generally make them on a copy while keeping the original files unchanged.)
+
+## Protecting Proprietary Data
+
+If you are working with proprietary data that should not be made public, then that fact gives you all the more reason not to add your data to your Git repository.
+
+If exposing your data through your project notebooks would be a problem, then you can make your repository private on GitHub and add the members of the instructional team as collaborators.
+
+If even presenting your project in class would be a problem, then we can make arrangements for you to present it just to the instructional team.
+
 ## Deliverables
 
 - **[Proposal.](./instructions/proposal.md)** Describe your chosen problem, and show that you have an appropriate dataset.
@@ -27,15 +39,3 @@ Score | Expectations
 **3** | _Exceeds expectations_
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
-
-## Tip
-
-**Do not add your data to your Git repo**. It can sit in the same directory with your code; just do not run `git add` on it. Git is optimized for smallish text files that change, but data files are often large and unchanging. (If you want to make persistent changes to the data, you should generally make them on a copy while keeping the original files unchanged.)
-
-## Protecting Proprietary Data
-
-If you are working with proprietary data that should not be made public, then that fact gives you all the more reason not to add your data to your Git repository.
-
-If exposing your data through your project notebooks would be a problem, then you can make your repository private on GitHub and add the members of the instructional team as collaborators.
-
-If even presenting your project in class would be a problem, then we can make arrangements for you to present it just to the instructional team.
