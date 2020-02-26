@@ -93,3 +93,5 @@ ENV/
 
 # PyCharm/IntelliJ project settings
 .idea
+*.h5
+*.json
